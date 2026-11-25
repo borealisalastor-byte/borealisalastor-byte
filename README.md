@@ -1,4 +1,3 @@
-# boreaisalastor-byte
 <!-- Most Used Languages card -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borealisalastor-byte&layout=compact&langs_count=8&theme=github_dark)
 
